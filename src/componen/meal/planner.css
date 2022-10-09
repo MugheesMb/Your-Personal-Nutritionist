@@ -1,0 +1,24 @@
+.plan{
+    height: 50vh;
+    align-items: center;
+}
+
+.controls{
+    padding-top: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.but{
+    margin: 3%;
+    color: rgb(255, 255, 255);
+    padding: 0.5%;
+    background-color: rgb(6, 6, 65);
+    border-radius: 10%;
+    cursor: pointer;
+}
+.inp{
+    border-block-color: black;
+    padding: 1%;
+}

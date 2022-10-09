@@ -1,0 +1,22 @@
+.first{
+    padding-top: 10%;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 5vh;
+    font-weight: bolder;
+
+}
+.lop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+    width: 20%;
+    margin-bottom: 1rem;
+  }
+   
+
+.inst{
+    margin-left: 4%;
+    margin-right: 4%;
+}
